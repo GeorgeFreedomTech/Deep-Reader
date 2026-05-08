@@ -106,13 +106,8 @@ This project was built using the "Human-Architect, AI-Builder" methodology, refl
     ```bash
     pip install -r requirements.txt
     ```
-4.  **Configure Secrets:** Create a .streamlit folder and a secrets.toml file inside it:
-    ```bash
-    mkdir .streamlit
-    # Create secrets.toml and add your API key:
-    # METEOBLUE_API_KEY = "your_api_key_here"
     ```
-5.  **Run the App:**
+4.  **Run the App:**
     ```bash
     streamlit run app.py
     ```
