@@ -106,7 +106,6 @@ This project was built using the "Human-Architect, AI-Builder" methodology, refl
     ```bash
     pip install -r requirements.txt
     ```
-    ```
 4.  **Run the App:**
     ```bash
     streamlit run app.py
