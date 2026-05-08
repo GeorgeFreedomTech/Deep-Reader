@@ -12,7 +12,7 @@ It is a practical implementation of the **Rugged IT** philosophy—prioritizing 
 ### 📖 Live Reader HQ
 Access the distraction-free reading environment directly through the web interface.
 
-* **Live App:** [Deep Reader on Streamlit Cloud](#)
+* **Live App:** [Deep Reader on Streamlit Cloud](https://deep-reader.streamlit.app/)
 
 * **Core Mission:** This application implements a "Read-Only" protocol. It demonstrates how to bypass engagement-driven web design to reclaim focus and ensure data-driven consumption of information.
 
