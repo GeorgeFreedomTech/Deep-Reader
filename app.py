@@ -22,8 +22,6 @@ def main():
                 if content:
                     st.divider()
                     st.markdown(content)
-                    st.divider()
-                    st.button("Clear", on_click=lambda: st.rerun())
                 else:
                     st.error("Extraction failed. The content might be hidden behind a login or script.")
             else:
