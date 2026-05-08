@@ -53,7 +53,7 @@ graph LR;
     end
 
     subgraph "Deep Reader (The Filter)"
-        direction TB
+        direction TD
         Fetch[Trafilatura Fetcher]
         Clean[Content Distiller]
         MD[Markdown Converter]
