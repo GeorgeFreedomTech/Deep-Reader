@@ -71,12 +71,14 @@ graph LR;
 ```
 
 ## File Structure
+```
 deep-reader/
 │
 ├── app.py                  # Main application & UI Orchestrator
 ├── requirements.txt        # Python dependencies (Streamlit, Trafilatura)
 ├── .gitignore              # Files ignored by Git
 └── README.md               # This file
+```
 
 ## 💡 Development Philosophy & AI Collaboration
 This project was built using the "Human-Architect, AI-Builder" methodology, reflecting the core of the Builder Mindset.
