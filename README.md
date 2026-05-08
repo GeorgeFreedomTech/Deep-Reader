@@ -46,8 +46,9 @@ The application follows a **Minimalist Modular Architecture**. By decoupling the
 
 
 ### System Diagram
-```mermaid
-graph LR;
+```
+mermaid
+graph TB;
     subgraph "The Web (Digital Chaos)"
         URL[Raw Article URL]
     end
