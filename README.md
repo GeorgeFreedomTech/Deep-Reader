@@ -4,9 +4,9 @@
 
 A minimalist, high-focus reading tool built with **Streamlit**, designed to strip away digital noise, advertisements, and "AI-slop" from web articles.
 
-This project serves as a **Digital Hygiene** utility: capturing raw HTML from any URL, isolating the core intellectual signal using the **Trafilatura** engine, and rendering a clean, distraction-free Markdown interface.
+This project serves as a **Digital Noise Razor** utility: capturing raw HTML from any URL, isolating the core intellectual signal using the **Trafilatura** engine, and rendering a clean, distraction-free Markdown interface.
 
-It is a practical implementation of the **Rugged IT** philosophy—prioritizing information integrity and mental focus over modern web bloat.
+It is a practical implementation of the **Rugged IT** philosophy—prioritizing information integrity and mental focus over modern web bloat and digital overload.
 
 
 ### 📖 Live Reader HQ
@@ -48,7 +48,7 @@ The application follows a **Minimalist Modular Architecture**. By decoupling the
 ### System Diagram
 ```mermaid
 graph TB;
-    subgraph "The Web (Digital Chaos)"
+    subgraph "The Web (Digital Overload)"
         URL[Raw Article URL]
     end
 
