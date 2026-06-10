@@ -8,6 +8,7 @@ This project serves as a **Digital Noise Razor** utility: capturing raw HTML fro
 
 It is a practical implementation of the **Rugged IT** philosophy—prioritizing information integrity and mental focus over modern web bloat and digital overload.
 
+Full Story: https://georgefreedom.com/i-reclaimed-my-attention-why-i-built-a-digital-blade-to-cut-off-the-ai-slop/
 
 ### 📖 Live Reader HQ
 Access the distraction-free reading environment directly through the web interface.
