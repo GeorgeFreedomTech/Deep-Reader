@@ -78,6 +78,7 @@ deep-reader/
 ├── app.py                  # Main application & UI Orchestrator
 ├── requirements.txt        # Python dependencies (Streamlit, Trafilatura)
 ├── .gitignore              # Files ignored by Git
+├── LICENSE.md              # License
 └── README.md               # This file
 ```
 
